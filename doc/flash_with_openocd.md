@@ -24,4 +24,5 @@ https://github.com/ArteryTek/openocd/releases
 7. flash the bootloader :
 
 > flash write_image erase unlock /path_to_AT32F421_AM32_Bootloader/Objects/F421_PB4_BOOTLOADER_V2.hex
+> 
 > reset halt
