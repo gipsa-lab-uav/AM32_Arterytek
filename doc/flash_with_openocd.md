@@ -19,7 +19,7 @@ https://github.com/ArteryTek/openocd/releases
 6. in telnet : first disable write protection (if necessary) :
 
 > reset halt
-> at32f415_disable_write_protection
+> at32f421_disable_write_protection
 
 7. flash the bootloader :
 
