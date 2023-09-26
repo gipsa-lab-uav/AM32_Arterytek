@@ -22,7 +22,7 @@ https://github.com/ArteryTek/openocd/releases
 > 
 > at32f421_disable_write_protection
 
-7. flash the bootloader :
+7. flash the bootloader (hex files here https://github.com/AlkaMotors/AT32F421_AM32_Bootloader/tree/main/Objects ) :
 
 > flash write_image erase unlock /path_to_AT32F421_AM32_Bootloader/Objects/F421_PB4_BOOTLOADER_V2.hex
 > 
